@@ -1,4 +1,4 @@
-const API_KEY = 'AIzaSyDFHC6Q0zPjltPyjZYkN0wnXx3xujvHd6Y'; // استبدل بالمفتاح الحقيقي
+const API_KEY = 'AIzaSyC0eoqMVCVD1oaFeDevSH-cuU_70NmMeAE'; // استبدل بالمفتاح الحقيقي
 const chatMessages = document.getElementById('chat-messages');
 const userInput = document.getElementById('user-input');
 
